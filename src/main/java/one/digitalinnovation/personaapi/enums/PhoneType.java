@@ -9,10 +9,10 @@ import lombok.Getter;
 public enum PhoneType {
 
     
-    //HOME( description: "Home"),
-    //MOBILE ( description: "Mobile"),
-    //COMMERCIAL ( description: "Commercial");
+    HOME( description: "Home"),
+    MOBILE ( description: "Mobile"),
+    COMMERCIAL ( description: "Commercial");
 
-    //private final String description;
+    private final String description;
     
 }
