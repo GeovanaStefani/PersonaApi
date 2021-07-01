@@ -10,7 +10,7 @@ import java.time.LocalDate;
 
 @SpringBootApplication
 @RestController
-@RequestMapping("/")
+@RequestMapping("/api/v1/people")
 
 public class PersonaapiApplication {
 
